@@ -1,0 +1,13 @@
+{
+  "name": "rpc-worker-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm i && node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@keeveeg/rpc": "1.0.5"
+  }
+}
