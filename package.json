@@ -8,6 +8,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@keeveeg/rpc": "1.0.5"
+    "@keeveeg/rpc": "1.1.0"
   }
 }
